@@ -4,6 +4,8 @@ Clarity.
 
 https://rathmeridian.com/
 
+USE AT YOUR OWN RISK! NO WARRANTY OR GUARANTEE PROVIDED.
+
 A small command line utility that scans hosts for HTTP and HTTPS services and,
 optionally, captures a screenshot of every web service it finds.
 
